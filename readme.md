@@ -1,0 +1,1 @@
+you need to directly link via url in the css or use local images to get them to show.
